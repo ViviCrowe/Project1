@@ -32,3 +32,15 @@
 /processorParam:TextureFormat=Color
 /build:ball.png
 
+#begin Hellfire_Anna.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Hellfire_Anna.mp3
+
+#begin pop.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:pop.wav
+
